@@ -1,4 +1,4 @@
-# 🎮 AdivinaMiNúmero - Proyecto Integrador
+# AdivinaMiNúmero - Proyecto Integrador
 
 ##  Descripción
 Sistema inteligente en Python donde la computadora adivina un número pensado por el usuario (1-100) utilizando algoritmos de búsqueda eficientes. Proyecto integrador del curso de Lógica de Programación.
